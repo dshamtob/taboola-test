@@ -47,7 +47,7 @@ public class TreeSerializer {
     }
 
     public static void main(String[] args) {
-        // Test the serializer and deserializer
+        // Test the serializer
         TreeSerializer treeSerializer = new TreeSerializer();
 
         Node root = new Node(1);
